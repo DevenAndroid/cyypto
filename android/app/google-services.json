@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "666572910219",
+    "project_id": "crypto-3d520",
+    "storage_bucket": "crypto-3d520.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666572910219:android:04f30b6c2b024b54ecae8e",
+        "android_client_info": {
+          "package_name": "com.example.cyypto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666572910219-f8dcg2jl9rllgfo9tmcoj7gmj1v6kn6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNZWVl5x1LyMNaEA2wPS_ofs8WU17K078"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666572910219-f8dcg2jl9rllgfo9tmcoj7gmj1v6kn6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
